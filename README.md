@@ -19,4 +19,4 @@ Ce projet est une application Java simple permettant aux utilisateurs de dessine
 
 1. Clonez ce dépôt sur votre machine locale :
    ```bash
-   git clone https://github.com/votre-utilisateur/votre-projet.git
+   git clone https://github.com/Tonnyjoh/Ardoise.git
